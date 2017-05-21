@@ -18,7 +18,7 @@ import java.util.Scanner;
  * @author Kushal
  *
  */
-class GettingReady {
+class App {
     
 	/**
 	 * The main method for the GettingReady program.
